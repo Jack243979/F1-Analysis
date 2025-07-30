@@ -1,0 +1,319 @@
+resultId,raceId,driverId,constructorId,grid,position,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,year,name,circuitId,driver_name,team_name,country
+289,32,4,4,15,1,1,10.0,61,1:57:16.304,7036304,55,3,1:45.768,172.464,1,2008,Singapore Grand Prix,15,Fernando Alonso,Renault,Singapore
+290,32,3,3,8,2,2,8.0,61,+2.957,7039261,39,5,1:46.454,171.352,1,2008,Singapore Grand Prix,15,Nico Rosberg,Williams,Singapore
+291,32,1,1,2,3,3,6.0,61,+5.917,7042221,14,4,1:46.072,171.969,1,2008,Singapore Grand Prix,15,Lewis Hamilton,McLaren,Singapore
+292,32,10,7,7,4,4,5.0,61,+8.155,7044459,50,8,1:47.044,170.408,1,2008,Singapore Grand Prix,15,Timo Glock,Toyota,Singapore
+293,32,20,5,6,5,5,4.0,61,+10.268,7046572,13,9,1:47.271,170.047,1,2008,Singapore Grand Prix,15,Sebastian Vettel,Toro Rosso,Singapore
+294,32,2,2,9,6,6,3.0,61,+11.101,7047405,14,11,1:47.306,169.992,1,2008,Singapore Grand Prix,15,Nick Heidfeld,BMW Sauber,Singapore
+295,32,14,9,14,7,7,2.0,61,+16.387,7052691,41,13,1:47.562,169.587,1,2008,Singapore Grand Prix,15,David Coulthard,Red Bull,Singapore
+296,32,6,3,10,8,8,1.0,61,+18.489,7054793,13,10,1:47.287,170.022,1,2008,Singapore Grand Prix,15,Kazuki Nakajima,Williams,Singapore
+297,32,18,11,12,9,9,0.0,61,+19.885,7056189,61,15,1:48.128,168.700,1,2008,Singapore Grand Prix,15,Jenson Button,Honda,Singapore
+298,32,5,1,5,10,10,0.0,61,+26.902,7063206,14,12,1:47.337,169.943,1,2008,Singapore Grand Prix,15,Heikki Kovalainen,McLaren,Singapore
+299,32,9,2,4,11,11,0.0,61,+27.975,7064279,14,6,1:46.899,170.639,1,2008,Singapore Grand Prix,15,Robert Kubica,BMW Sauber,Singapore
+300,32,7,5,17,12,12,0.0,61,+29.432,7065736,29,14,1:47.820,169.181,1,2008,Singapore Grand Prix,15,Sébastien Bourdais,Toro Rosso,Singapore
+301,32,13,6,1,13,13,0.0,61,+35.170,7071474,13,2,1:45.757,172.482,1,2008,Singapore Grand Prix,15,Felipe Massa,Ferrari,Singapore
+302,32,21,10,20,14,14,0.0,61,+43.571,7079875,28,16,1:49.101,167.195,1,2008,Singapore Grand Prix,15,Giancarlo Fisichella,Force India,Singapore
+303,32,8,6,3,15,15,0.0,57,\N,\N,14,1,1:45.599,172.740,3,2008,Singapore Grand Prix,15,Kimi Räikkönen,Ferrari,Singapore
+304,32,15,7,11,\N,16,0.0,50,\N,\N,32,7,1:46.972,170.523,9,2008,Singapore Grand Prix,15,Jarno Trulli,Toyota,Singapore
+305,32,16,10,19,\N,17,0.0,49,\N,\N,38,18,1:49.270,166.936,3,2008,Singapore Grand Prix,15,Adrian Sutil,Force India,Singapore
+306,32,17,9,13,\N,18,0.0,29,\N,\N,13,17,1:49.183,167.069,7,2008,Singapore Grand Prix,15,Mark Webber,Red Bull,Singapore
+307,32,22,11,18,\N,19,0.0,14,\N,\N,13,19,1:50.320,165.348,26,2008,Singapore Grand Prix,15,Rubens Barrichello,Honda,Singapore
+308,32,12,4,16,\N,20,0.0,13,\N,\N,13,20,1:50.449,165.154,3,2008,Singapore Grand Prix,15,Nelson Piquet Jr.,Renault,Singapore
+7814,14,1,1,1,1,1,10.0,61,1:56:06.337,6966337,36,2,1:48.345,168.561,1,2009,Singapore Grand Prix,15,Lewis Hamilton,McLaren,Singapore
+7815,14,10,7,6,2,2,8.0,61,+9.634,6975971,34,6,1:48.396,168.482,1,2009,Singapore Grand Prix,15,Timo Glock,Toyota,Singapore
+7816,14,4,4,5,3,3,6.0,61,+16.624,6982961,53,1,1:48.240,168.725,1,2009,Singapore Grand Prix,15,Fernando Alonso,Renault,Singapore
+7817,14,20,9,2,4,4,5.0,61,+20.621,6986958,10,7,1:48.398,168.479,1,2009,Singapore Grand Prix,15,Sebastian Vettel,Red Bull,Singapore
+7818,14,18,23,11,5,5,4.0,61,+30.015,6996352,54,4,1:48.369,168.524,1,2009,Singapore Grand Prix,15,Jenson Button,Brawn,Singapore
+7819,14,22,23,9,6,6,3.0,61,+31.858,6998195,50,8,1:48.598,168.168,1,2009,Singapore Grand Prix,15,Rubens Barrichello,Brawn,Singapore
+7820,14,5,1,8,7,7,2.0,61,+36.157,7002494,36,11,1:49.283,167.114,1,2009,Singapore Grand Prix,15,Heikki Kovalainen,McLaren,Singapore
+7821,14,9,2,7,8,8,1.0,61,+55.054,7021391,44,10,1:48.847,167.784,1,2009,Singapore Grand Prix,15,Robert Kubica,BMW Sauber,Singapore
+7822,14,6,3,10,9,9,0.0,61,+56.054,7022391,45,13,1:49.371,166.980,1,2009,Singapore Grand Prix,15,Kazuki Nakajima,Williams,Singapore
+7823,14,8,6,12,10,10,0.0,61,+58.892,7025229,54,5,1:48.391,168.490,1,2009,Singapore Grand Prix,15,Kimi Räikkönen,Ferrari,Singapore
+7824,14,3,3,3,11,11,0.0,61,+59.777,7026114,9,3,1:48.352,168.550,1,2009,Singapore Grand Prix,15,Nico Rosberg,Williams,Singapore
+7825,14,15,7,14,12,12,0.0,61,+1:13.009,7039346,54,9,1:48.816,167.831,1,2009,Singapore Grand Prix,15,Jarno Trulli,Toyota,Singapore
+7826,14,21,6,17,13,13,0.0,61,+1:19.890,7046227,49,14,1:49.417,166.910,1,2009,Singapore Grand Prix,15,Giancarlo Fisichella,Ferrari,Singapore
+7827,14,24,10,19,14,14,0.0,61,+1:33.502,7059839,48,15,1:49.852,166.249,1,2009,Singapore Grand Prix,15,Vitantonio Liuzzi,Force India,Singapore
+7828,14,153,5,16,\N,15,0.0,47,\N,\N,32,18,1:52.483,162.360,23,2009,Singapore Grand Prix,15,Jaime Alguersuari,Toro Rosso,Singapore
+7829,14,67,5,13,\N,16,0.0,47,\N,\N,17,16,1:50.636,165.071,6,2009,Singapore Grand Prix,15,Sébastien Buemi,Toro Rosso,Singapore
+7830,14,17,9,4,\N,17,0.0,45,\N,\N,35,12,1:49.319,167.059,23,2009,Singapore Grand Prix,15,Mark Webber,Red Bull,Singapore
+7831,14,16,10,15,\N,18,0.0,23,\N,\N,15,19,1:52.623,162.158,4,2009,Singapore Grand Prix,15,Adrian Sutil,Force India,Singapore
+7832,14,2,2,20,\N,19,0.0,19,\N,\N,18,17,1:51.346,164.018,4,2009,Singapore Grand Prix,15,Nick Heidfeld,BMW Sauber,Singapore
+7833,14,154,4,18,\N,20,0.0,3,\N,\N,2,20,1:57.192,155.836,23,2009,Singapore Grand Prix,15,Romain Grosjean,Renault,Singapore
+20659,351,4,6,1,1,1,25.0,61,1:57:53.579,7073579,58,1,1:47.976,169.137,1,2010,Singapore Grand Prix,15,Fernando Alonso,Ferrari,Singapore
+20660,351,20,9,2,2,2,18.0,61,+0.293,7073872,59,2,1:48.141,168.879,1,2010,Singapore Grand Prix,15,Sebastian Vettel,Red Bull,Singapore
+20661,351,17,9,5,3,3,15.0,61,+29.141,7102720,54,5,1:49.706,166.470,1,2010,Singapore Grand Prix,15,Mark Webber,Red Bull,Singapore
+20662,351,18,1,4,4,4,12.0,61,+30.384,7103963,61,7,1:49.711,166.462,1,2010,Singapore Grand Prix,15,Jenson Button,McLaren,Singapore
+20663,351,3,131,7,5,5,10.0,61,+49.394,7122973,55,8,1:50.125,165.837,1,2010,Singapore Grand Prix,15,Nico Rosberg,Mercedes,Singapore
+20664,351,22,3,6,6,6,8.0,61,+56.101,7129680,52,9,1:50.334,165.522,1,2010,Singapore Grand Prix,15,Rubens Barrichello,Williams,Singapore
+20665,351,9,4,8,7,7,6.0,61,+1:26.559,7160138,56,3,1:49.255,167.157,1,2010,Singapore Grand Prix,15,Robert Kubica,Renault,Singapore
+20666,351,13,6,24,8,8,4.0,61,+1:53.297,7186876,45,12,1:52.079,162.945,1,2010,Singapore Grand Prix,15,Felipe Massa,Ferrari,Singapore
+20667,351,16,10,15,9,9,2.0,61,+2:02.416,7195995,45,15,1:52.473,162.374,1,2010,Singapore Grand Prix,15,Adrian Sutil,Force India,Singapore
+20668,351,807,3,17,10,10,1.0,61,+2:12.791,7206370,45,13,1:52.213,162.751,1,2010,Singapore Grand Prix,15,Nico Hülkenberg,Williams,Singapore
+20669,351,808,4,12,11,11,0.0,60,\N,\N,46,11,1:51.903,163.202,11,2010,Singapore Grand Prix,15,Vitaly Petrov,Renault,Singapore
+20670,351,153,5,11,12,12,0.0,60,\N,\N,43,14,1:52.333,162.577,11,2010,Singapore Grand Prix,15,Jaime Alguersuari,Toro Rosso,Singapore
+20671,351,30,131,9,13,13,0.0,60,\N,\N,54,4,1:49.680,166.509,11,2010,Singapore Grand Prix,15,Michael Schumacher,Mercedes,Singapore
+20672,351,67,5,13,14,14,0.0,60,\N,\N,59,6,1:49.710,166.464,11,2010,Singapore Grand Prix,15,Sébastien Buemi,Toro Rosso,Singapore
+20673,351,810,166,20,15,15,0.0,59,\N,\N,55,17,1:52.513,162.317,12,2010,Singapore Grand Prix,15,Lucas di Grassi,Virgin,Singapore
+20674,351,5,205,19,16,16,0.0,58,\N,\N,53,18,1:53.051,161.544,5,2010,Singapore Grand Prix,15,Heikki Kovalainen,Lotus,Singapore
+20675,351,10,166,18,\N,17,0.0,49,\N,\N,38,19,1:53.559,160.822,9,2010,Singapore Grand Prix,15,Timo Glock,Virgin,Singapore
+20676,351,2,15,14,\N,18,0.0,36,\N,\N,29,16,1:52.475,162.372,4,2010,Singapore Grand Prix,15,Nick Heidfeld,Sauber,Singapore
+20677,351,1,1,3,\N,19,0.0,35,\N,\N,31,10,1:50.750,164.901,4,2010,Singapore Grand Prix,15,Lewis Hamilton,McLaren,Singapore
+20678,351,32,164,22,\N,20,0.0,31,\N,\N,23,22,1:57.766,155.077,9,2010,Singapore Grand Prix,15,Christian Klien,HRT,Singapore
+20679,351,155,15,10,\N,21,0.0,30,\N,\N,22,20,1:53.957,160.260,3,2010,Singapore Grand Prix,15,Kamui Kobayashi,Sauber,Singapore
+20680,351,811,164,23,\N,22,0.0,29,\N,\N,19,23,1:57.962,154.819,3,2010,Singapore Grand Prix,15,Bruno Senna,HRT,Singapore
+20681,351,15,205,21,\N,23,0.0,27,\N,\N,20,21,1:56.386,156.915,9,2010,Singapore Grand Prix,15,Jarno Trulli,Lotus,Singapore
+20682,351,24,10,16,\N,24,0.0,1,\N,\N,\N,\N,\N,\N,4,2010,Singapore Grand Prix,15,Vitantonio Liuzzi,Force India,Singapore
+21088,854,20,9,1,1,1,25.0,61,1:59:06.757,7146757,51,2,1:48.688,168.029,1,2011,Singapore Grand Prix,15,Sebastian Vettel,Red Bull,Singapore
+21089,854,18,1,3,2,2,18.0,61,+1.737,7148494,54,1,1:48.454,168.392,1,2011,Singapore Grand Prix,15,Jenson Button,McLaren,Singapore
+21090,854,17,9,2,3,3,15.0,61,+29.279,7176036,54,3,1:50.088,165.892,1,2011,Singapore Grand Prix,15,Mark Webber,Red Bull,Singapore
+21091,854,4,6,5,4,4,12.0,61,+55.449,7202206,58,5,1:50.891,164.691,1,2011,Singapore Grand Prix,15,Fernando Alonso,Ferrari,Singapore
+21092,854,1,1,4,5,5,10.0,61,+1:07.766,7214523,54,4,1:50.832,164.779,1,2011,Singapore Grand Prix,15,Lewis Hamilton,McLaren,Singapore
+21093,854,814,10,10,6,6,8.0,61,+1:51.067,7257824,41,15,1:54.239,159.864,1,2011,Singapore Grand Prix,15,Paul di Resta,Force India,Singapore
+21094,854,3,131,7,7,7,6.0,60,\N,\N,42,16,1:54.383,159.663,11,2011,Singapore Grand Prix,15,Nico Rosberg,Mercedes,Singapore
+21095,854,16,10,9,8,8,4.0,60,\N,\N,45,17,1:54.564,159.411,11,2011,Singapore Grand Prix,15,Adrian Sutil,Force India,Singapore
+21096,854,13,6,6,9,9,2.0,60,\N,\N,26,8,1:52.550,162.263,11,2011,Singapore Grand Prix,15,Felipe Massa,Ferrari,Singapore
+21097,854,815,15,11,10,10,1.0,60,\N,\N,42,18,1:54.615,159.340,11,2011,Singapore Grand Prix,15,Sergio Pérez,Sauber,Singapore
+21098,854,813,3,13,11,11,0.0,60,\N,\N,50,10,1:53.198,161.335,11,2011,Singapore Grand Prix,15,Pastor Maldonado,Williams,Singapore
+21099,854,67,5,14,12,12,0.0,60,\N,\N,51,7,1:52.197,162.774,11,2011,Singapore Grand Prix,15,Sébastien Buemi,Toro Rosso,Singapore
+21100,854,22,3,12,13,13,0.0,60,\N,\N,40,19,1:55.235,158.483,11,2011,Singapore Grand Prix,15,Rubens Barrichello,Williams,Singapore
+21101,854,155,15,17,14,14,0.0,59,\N,\N,56,6,1:51.329,164.043,12,2011,Singapore Grand Prix,15,Kamui Kobayashi,Sauber,Singapore
+21102,854,811,4,15,15,15,0.0,59,\N,\N,55,12,1:53.774,160.518,12,2011,Singapore Grand Prix,15,Bruno Senna,Renault,Singapore
+21103,854,5,205,19,16,16,0.0,59,\N,\N,56,13,1:54.063,160.111,12,2011,Singapore Grand Prix,15,Heikki Kovalainen,Lotus,Singapore
+21104,854,808,4,18,17,17,0.0,59,\N,\N,56,14,1:54.204,159.913,12,2011,Singapore Grand Prix,15,Vitaly Petrov,Renault,Singapore
+21105,854,816,166,22,18,18,0.0,59,\N,\N,22,22,1:58.730,153.817,12,2011,Singapore Grand Prix,15,Jérôme d'Ambrosio,Virgin,Singapore
+21106,854,817,164,23,19,19,0.0,57,\N,\N,40,23,1:59.064,153.386,14,2011,Singapore Grand Prix,15,Daniel Ricciardo,HRT,Singapore
+21107,854,24,164,24,20,20,0.0,57,\N,\N,41,21,1:58.283,154.399,14,2011,Singapore Grand Prix,15,Vitantonio Liuzzi,HRT,Singapore
+21108,854,153,5,16,21,21,0.0,56,\N,\N,37,11,1:53.676,160.656,3,2011,Singapore Grand Prix,15,Jaime Alguersuari,Toro Rosso,Singapore
+21109,854,15,205,20,\N,22,0.0,47,\N,\N,25,20,1:57.126,155.924,6,2011,Singapore Grand Prix,15,Jarno Trulli,Lotus,Singapore
+21110,854,30,131,8,\N,23,0.0,28,\N,\N,26,9,1:53.096,161.480,3,2011,Singapore Grand Prix,15,Michael Schumacher,Mercedes,Singapore
+21111,854,10,166,21,\N,24,0.0,9,\N,\N,6,24,2:00.412,151.669,3,2011,Singapore Grand Prix,15,Timo Glock,Virgin,Singapore
+21544,873,20,9,3,1,1,25.0,59,2:00:26.144,7226144,50,3,1:52.134,162.865,1,2012,Singapore Grand Prix,15,Sebastian Vettel,Red Bull,Singapore
+21545,873,18,1,4,2,2,18.0,59,+8.959,7235103,47,4,1:52.625,162.155,1,2012,Singapore Grand Prix,15,Jenson Button,McLaren,Singapore
+21546,873,4,6,5,3,3,15.0,59,+15.227,7241371,53,5,1:52.709,162.034,1,2012,Singapore Grand Prix,15,Fernando Alonso,Ferrari,Singapore
+21547,873,814,10,6,4,4,12.0,59,+19.063,7245207,54,7,1:52.931,161.716,1,2012,Singapore Grand Prix,15,Paul di Resta,Force India,Singapore
+21548,873,3,131,10,5,5,10.0,59,+34.784,7260928,55,12,1:53.897,160.344,1,2012,Singapore Grand Prix,15,Nico Rosberg,Mercedes,Singapore
+21549,873,8,208,12,6,6,8.0,59,+35.759,7261903,53,11,1:53.785,160.502,1,2012,Singapore Grand Prix,15,Kimi Räikkönen,Lotus F1,Singapore
+21550,873,154,208,8,7,7,6.0,59,+36.698,7262842,56,14,1:54.123,160.027,1,2012,Singapore Grand Prix,15,Romain Grosjean,Lotus F1,Singapore
+21551,873,13,6,13,8,8,4.0,59,+42.829,7268973,47,13,1:53.997,160.204,1,2012,Singapore Grand Prix,15,Felipe Massa,Ferrari,Singapore
+21552,873,817,5,15,9,9,2.0,59,+45.820,7271964,53,15,1:54.267,159.825,1,2012,Singapore Grand Prix,15,Daniel Ricciardo,Toro Rosso,Singapore
+21553,873,815,15,14,10,10,1.0,59,+50.619,7276763,51,6,1:52.778,161.935,1,2012,Singapore Grand Prix,15,Sergio Pérez,Sauber,Singapore
+21554,873,17,9,7,11,11,0.0,59,+87.175,7313319,53,10,1:53.726,160.585,1,2012,Singapore Grand Prix,15,Mark Webber,Red Bull,Singapore
+21555,873,10,206,20,12,12,0.0,59,+91.918,7318062,30,21,1:56.057,157.360,1,2012,Singapore Grand Prix,15,Timo Glock,Marussia,Singapore
+21556,873,155,15,17,13,13,0.0,59,+97.141,7323285,52,2,1:51.690,163.513,1,2012,Singapore Grand Prix,15,Kamui Kobayashi,Sauber,Singapore
+21557,873,807,10,11,14,14,0.0,59,+99.413,7325557,52,1,1:51.033,164.480,1,2012,Singapore Grand Prix,15,Nico Hülkenberg,Force India,Singapore
+21558,873,5,207,19,15,15,0.0,59,+107.967,7334111,48,18,1:55.233,158.485,1,2012,Singapore Grand Prix,15,Heikki Kovalainen,Caterham,Singapore
+21559,873,819,206,21,16,16,0.0,59,+132.925,7359069,37,22,1:56.486,156.781,1,2012,Singapore Grand Prix,15,Charles Pic,Marussia,Singapore
+21560,873,37,164,24,17,17,0.0,58,\N,\N,48,23,1:57.671,155.202,11,2012,Singapore Grand Prix,15,Pedro de la Rosa,HRT,Singapore
+21561,873,811,3,22,18,18,0.0,57,\N,\N,27,9,1:53.610,160.749,31,2012,Singapore Grand Prix,15,Bruno Senna,Williams,Singapore
+21562,873,808,207,18,19,19,0.0,57,\N,\N,44,17,1:55.140,158.613,12,2012,Singapore Grand Prix,15,Vitaly Petrov,Caterham,Singapore
+21563,873,818,5,16,\N,20,0.0,38,\N,\N,28,8,1:53.510,160.891,4,2012,Singapore Grand Prix,15,Jean-Éric Vergne,Toro Rosso,Singapore
+21564,873,30,131,9,\N,21,0.0,38,\N,\N,26,20,1:56.047,157.374,4,2012,Singapore Grand Prix,15,Michael Schumacher,Mercedes,Singapore
+21565,873,813,3,2,\N,22,0.0,36,\N,\N,27,16,1:55.120,158.641,9,2012,Singapore Grand Prix,15,Pastor Maldonado,Williams,Singapore
+21566,873,39,164,23,\N,23,0.0,30,\N,\N,26,24,1:58.507,154.107,3,2012,Singapore Grand Prix,15,Narain Karthikeyan,HRT,Singapore
+21567,873,1,1,1,\N,24,0.0,22,\N,\N,14,19,1:55.541,158.063,6,2012,Singapore Grand Prix,15,Lewis Hamilton,McLaren,Singapore
+21976,893,20,9,1,1,1,25.0,61,1:59:13.132,7153132,46,1,1:48.574,167.940,1,2013,Singapore Grand Prix,15,Sebastian Vettel,Red Bull,Singapore
+21977,893,4,6,7,2,2,18.0,61,+32.627,7185759,44,11,1:51.082,164.149,1,2013,Singapore Grand Prix,15,Fernando Alonso,Ferrari,Singapore
+21978,893,8,208,13,3,3,15.0,61,+43.920,7197052,55,13,1:51.140,164.063,1,2013,Singapore Grand Prix,15,Kimi Räikkönen,Lotus F1,Singapore
+21979,893,3,131,2,4,4,12.0,61,+51.155,7204287,51,6,1:50.353,165.233,1,2013,Singapore Grand Prix,15,Nico Rosberg,Mercedes,Singapore
+21980,893,1,131,5,5,5,10.0,61,+53.159,7206291,59,4,1:49.916,165.890,1,2013,Singapore Grand Prix,15,Lewis Hamilton,Mercedes,Singapore
+21981,893,13,6,6,6,6,8.0,61,+1:03.877,7217009,45,7,1:50.509,165.000,1,2013,Singapore Grand Prix,15,Felipe Massa,Ferrari,Singapore
+21982,893,18,1,8,7,7,6.0,61,+1:23.354,7236486,46,15,1:51.740,163.182,1,2013,Singapore Grand Prix,15,Jenson Button,McLaren,Singapore
+21983,893,815,1,14,8,8,4.0,61,+1:23.820,7236952,46,16,1:51.926,162.911,1,2013,Singapore Grand Prix,15,Sergio Pérez,McLaren,Singapore
+21984,893,807,15,11,9,9,2.0,61,+1:24.261,7237393,47,18,1:52.186,162.533,1,2013,Singapore Grand Prix,15,Nico Hülkenberg,Sauber,Singapore
+21985,893,16,10,15,10,10,1.0,61,+1:24.668,7237800,43,2,1:49.656,166.283,1,2013,Singapore Grand Prix,15,Adrian Sutil,Force India,Singapore
+21986,893,813,3,18,11,11,0.0,61,+1:28.479,7241611,46,8,1:50.708,164.703,1,2013,Singapore Grand Prix,15,Pastor Maldonado,Williams,Singapore
+21987,893,821,15,10,12,12,0.0,61,+1:37.894,7251026,37,17,1:52.007,162.793,1,2013,Singapore Grand Prix,15,Esteban Gutiérrez,Sauber,Singapore
+21988,893,822,3,16,13,13,0.0,61,+1:45.161,7258293,53,14,1:51.706,163.232,1,2013,Singapore Grand Prix,15,Valtteri Bottas,Williams,Singapore
+21989,893,818,5,12,14,14,0.0,61,+1:53.512,7266644,45,5,1:50.328,165.270,1,2013,Singapore Grand Prix,15,Jean-Éric Vergne,Toro Rosso,Singapore
+21990,893,17,9,4,15,15,0.0,60,\N,\N,51,3,1:49.783,166.091,34,2013,Singapore Grand Prix,15,Mark Webber,Red Bull,Singapore
+21991,893,823,207,20,16,16,0.0,60,\N,\N,44,19,1:52.472,162.120,11,2013,Singapore Grand Prix,15,Giedo van der Garde,Caterham,Singapore
+21992,893,820,206,22,17,17,0.0,60,\N,\N,50,21,1:53.041,161.304,11,2013,Singapore Grand Prix,15,Max Chilton,Marussia,Singapore
+21993,893,824,206,21,18,18,0.0,60,\N,\N,45,20,1:52.898,161.508,11,2013,Singapore Grand Prix,15,Jules Bianchi,Marussia,Singapore
+21994,893,819,207,19,19,19,0.0,60,\N,\N,58,10,1:50.990,164.285,11,2013,Singapore Grand Prix,15,Charles Pic,Caterham,Singapore
+21995,893,814,10,17,20,20,0.0,54,\N,\N,45,9,1:50.739,164.657,3,2013,Singapore Grand Prix,15,Paul di Resta,Force India,Singapore
+21996,893,154,208,3,\N,21,0.0,37,\N,\N,35,12,1:51.097,164.126,63,2013,Singapore Grand Prix,15,Romain Grosjean,Lotus F1,Singapore
+21997,893,817,5,9,\N,22,0.0,23,\N,\N,23,22,1:53.052,161.288,3,2013,Singapore Grand Prix,15,Daniel Ricciardo,Toro Rosso,Singapore
+22417,913,1,131,1,1,1,25.0,60,2:00:04.795,7204795,39,1,1:50.417,165.137,1,2014,Singapore Grand Prix,15,Lewis Hamilton,Mercedes,Singapore
+22418,913,20,9,4,2,2,18.0,60,+13.534,7218329,27,8,1:52.519,162.052,1,2014,Singapore Grand Prix,15,Sebastian Vettel,Red Bull,Singapore
+22419,913,817,9,3,3,3,15.0,60,+14.273,7219068,30,9,1:52.569,161.980,1,2014,Singapore Grand Prix,15,Daniel Ricciardo,Red Bull,Singapore
+22420,913,4,6,5,4,4,12.0,60,+15.389,7220184,27,6,1:52.115,162.636,1,2014,Singapore Grand Prix,15,Fernando Alonso,Ferrari,Singapore
+22421,913,13,3,6,5,5,10.0,60,+42.161,7246956,27,13,1:53.283,160.959,1,2014,Singapore Grand Prix,15,Felipe Massa,Williams,Singapore
+22422,913,818,5,12,6,6,8.0,60,+56.801,7261596,48,4,1:51.937,162.895,1,2014,Singapore Grand Prix,15,Jean-Éric Vergne,Toro Rosso,Singapore
+22423,913,815,10,15,7,7,6.0,60,+59.038,7263833,46,5,1:52.007,162.793,1,2014,Singapore Grand Prix,15,Sergio Pérez,Force India,Singapore
+22424,913,8,6,7,8,8,4.0,60,+1:00.641,7265436,28,11,1:52.872,161.545,1,2014,Singapore Grand Prix,15,Kimi Räikkönen,Ferrari,Singapore
+22425,913,807,10,13,9,9,2.0,60,+1:01.661,7266456,27,10,1:52.762,161.703,1,2014,Singapore Grand Prix,15,Nico Hülkenberg,Force India,Singapore
+22426,913,825,1,9,10,10,1.0,60,+1:02.230,7267025,48,2,1:51.639,163.330,1,2014,Singapore Grand Prix,15,Kevin Magnussen,McLaren,Singapore
+22427,913,822,3,8,11,11,0.0,60,+1:05.065,7269860,25,7,1:52.515,162.058,1,2014,Singapore Grand Prix,15,Valtteri Bottas,Williams,Singapore
+22428,913,813,208,18,12,12,0.0,60,+1:06.915,7271710,26,12,1:53.213,161.059,1,2014,Singapore Grand Prix,15,Pastor Maldonado,Lotus F1,Singapore
+22429,913,154,208,16,13,13,0.0,60,+1:08.029,7272824,25,15,1:53.543,160.591,1,2014,Singapore Grand Prix,15,Romain Grosjean,Lotus F1,Singapore
+22430,913,826,5,10,14,14,0.0,60,+1:12.008,7276803,45,3,1:51.761,163.151,1,2014,Singapore Grand Prix,15,Daniil Kvyat,Toro Rosso,Singapore
+22431,913,828,207,22,15,15,0.0,60,+1:34.188,7298983,14,19,1:55.416,157.985,1,2014,Singapore Grand Prix,15,Marcus Ericsson,Caterham,Singapore
+22432,913,824,206,19,16,16,0.0,60,+1:34.543,7299338,47,14,1:53.538,160.598,1,2014,Singapore Grand Prix,15,Jules Bianchi,Marussia,Singapore
+22433,913,820,206,21,17,17,0.0,59,\N,\N,43,17,1:53.807,160.218,11,2014,Singapore Grand Prix,15,Max Chilton,Marussia,Singapore
+22434,913,18,1,11,\N,18,0.0,52,\N,\N,16,16,1:53.707,160.359,31,2014,Singapore Grand Prix,15,Jenson Button,McLaren,Singapore
+22435,913,16,15,17,\N,19,0.0,40,\N,\N,10,18,1:53.948,160.020,34,2014,Singapore Grand Prix,15,Adrian Sutil,Sauber,Singapore
+22436,913,821,15,14,\N,20,0.0,17,\N,\N,6,20,1:55.684,157.619,10,2014,Singapore Grand Prix,15,Esteban Gutiérrez,Sauber,Singapore
+22437,913,3,131,2,\N,21,0.0,13,\N,\N,5,21,1:56.769,156.154,10,2014,Singapore Grand Prix,15,Nico Rosberg,Mercedes,Singapore
+22438,913,155,207,20,\N,22,0.0,0,\N,\N,\N,0,\N,\N,131,2014,Singapore Grand Prix,15,Kamui Kobayashi,Caterham,Singapore
+22776,939,20,6,1,1,1,25.0,61,2:01:22.118,7282118,53,2,1:50.069,165.659,1,2015,Singapore Grand Prix,15,Sebastian Vettel,Ferrari,Singapore
+22777,939,817,9,2,2,2,18.0,61,+1.478,7283596,52,1,1:50.041,165.701,1,2015,Singapore Grand Prix,15,Daniel Ricciardo,Red Bull,Singapore
+22778,939,8,6,3,3,3,15.0,61,+17.154,7299272,48,5,1:50.341,165.251,1,2015,Singapore Grand Prix,15,Kimi Räikkönen,Ferrari,Singapore
+22779,939,3,131,6,4,4,12.0,61,+24.720,7306838,50,7,1:50.934,164.368,1,2015,Singapore Grand Prix,15,Nico Rosberg,Mercedes,Singapore
+22780,939,822,3,7,5,5,10.0,61,+34.204,7316322,49,10,1:51.342,163.765,1,2015,Singapore Grand Prix,15,Valtteri Bottas,Williams,Singapore
+22781,939,826,9,4,6,6,8.0,61,+35.508,7317626,36,8,1:51.109,164.109,1,2015,Singapore Grand Prix,15,Daniil Kvyat,Red Bull,Singapore
+22782,939,815,10,13,7,7,6.0,61,+50.836,7332954,44,12,1:51.970,162.847,1,2015,Singapore Grand Prix,15,Sergio Pérez,Force India,Singapore
+22783,939,830,5,8,8,8,4.0,61,+51.450,7333568,43,4,1:50.298,165.315,1,2015,Singapore Grand Prix,15,Max Verstappen,Toro Rosso,Singapore
+22784,939,832,5,14,9,9,2.0,61,+52.860,7334978,43,6,1:50.401,165.161,1,2015,Singapore Grand Prix,15,Carlos Sainz,Toro Rosso,Singapore
+22785,939,831,15,16,10,10,1.0,61,+1:30.045,7372163,36,15,1:52.566,161.984,1,2015,Singapore Grand Prix,15,Felipe Nasr,Sauber,Singapore
+22786,939,828,15,17,11,11,0.0,61,+1:37.507,7379625,30,11,1:51.594,163.395,1,2015,Singapore Grand Prix,15,Marcus Ericsson,Sauber,Singapore
+22787,939,813,208,18,12,12,0.0,61,+1:37.718,7379836,57,3,1:50.175,165.500,1,2015,Singapore Grand Prix,15,Pastor Maldonado,Lotus F1,Singapore
+22788,939,154,208,10,13,13,0.0,59,\N,\N,28,13,1:52.353,162.292,27,2015,Singapore Grand Prix,15,Romain Grosjean,Lotus F1,Singapore
+22789,939,834,209,20,14,14,0.0,59,\N,\N,43,19,1:55.312,158.127,12,2015,Singapore Grand Prix,15,Alexander Rossi,Manor Marussia,Singapore
+22790,939,829,209,19,15,15,0.0,59,\N,\N,45,20,1:55.890,157.338,12,2015,Singapore Grand Prix,15,Will Stevens,Manor Marussia,Singapore
+22791,939,18,1,15,\N,16,0.0,52,\N,\N,43,9,1:51.167,164.023,6,2015,Singapore Grand Prix,15,Jenson Button,McLaren,Singapore
+22792,939,4,1,12,\N,17,0.0,33,\N,\N,27,16,1:53.325,160.900,6,2015,Singapore Grand Prix,15,Fernando Alonso,McLaren,Singapore
+22793,939,1,131,5,\N,18,0.0,32,\N,\N,24,14,1:52.505,162.072,37,2015,Singapore Grand Prix,15,Lewis Hamilton,Mercedes,Singapore
+22794,939,13,3,9,\N,19,0.0,30,\N,\N,19,17,1:53.666,160.417,6,2015,Singapore Grand Prix,15,Felipe Massa,Williams,Singapore
+22795,939,807,10,11,\N,20,0.0,12,\N,\N,6,18,1:53.868,160.132,4,2015,Singapore Grand Prix,15,Nico Hülkenberg,Force India,Singapore
+23225,962,3,131,1,1,1,25.0,61,1:55:48.950,6948950,38,6,1:50.296,165.318,1,2016,Singapore Grand Prix,15,Nico Rosberg,Mercedes,Singapore
+23226,962,817,9,2,2,2,18.0,61,+0.488,6949438,49,1,1:47.187,170.113,1,2016,Singapore Grand Prix,15,Daniel Ricciardo,Red Bull,Singapore
+23227,962,1,131,3,3,3,15.0,61,+8.038,6956988,52,3,1:47.752,169.221,1,2016,Singapore Grand Prix,15,Lewis Hamilton,Mercedes,Singapore
+23228,962,8,6,5,4,4,12.0,61,+10.219,6959169,51,4,1:48.204,168.515,1,2016,Singapore Grand Prix,15,Kimi Räikkönen,Ferrari,Singapore
+23229,962,20,6,22,5,5,10.0,61,+27.694,6976644,45,2,1:47.345,169.863,1,2016,Singapore Grand Prix,15,Sebastian Vettel,Ferrari,Singapore
+23230,962,830,9,4,6,6,8.0,61,+1:11.197,7020147,46,5,1:49.050,167.207,1,2016,Singapore Grand Prix,15,Max Verstappen,Red Bull,Singapore
+23231,962,4,1,9,7,7,6.0,61,+1:29.198,7038148,49,12,1:51.249,163.902,1,2016,Singapore Grand Prix,15,Fernando Alonso,McLaren,Singapore
+23232,962,815,10,17,8,8,4.0,61,+1:51.062,7060012,34,15,1:51.517,163.508,1,2016,Singapore Grand Prix,15,Sergio Pérez,Force India,Singapore
+23233,962,826,5,7,9,9,2.0,61,+1:51.557,7060507,39,9,1:50.944,164.353,1,2016,Singapore Grand Prix,15,Daniil Kvyat,Toro Rosso,Singapore
+23234,962,825,4,15,10,10,1.0,61,+1:59.952,7068902,44,8,1:50.858,164.480,1,2016,Singapore Grand Prix,15,Kevin Magnussen,Renault,Singapore
+23235,962,821,210,13,11,11,0.0,60,\N,\N,39,11,1:51.075,164.159,11,2016,Singapore Grand Prix,15,Esteban Gutiérrez,Haas F1 Team,Singapore
+23236,962,13,3,11,12,12,0.0,60,\N,\N,53,14,1:51.455,163.599,11,2016,Singapore Grand Prix,15,Felipe Massa,Williams,Singapore
+23237,962,831,15,16,13,13,0.0,60,\N,\N,41,17,1:51.683,163.265,11,2016,Singapore Grand Prix,15,Felipe Nasr,Sauber,Singapore
+23238,962,832,5,6,14,14,0.0,60,\N,\N,56,7,1:50.532,164.965,11,2016,Singapore Grand Prix,15,Carlos Sainz,Toro Rosso,Singapore
+23239,962,835,4,18,15,15,0.0,60,\N,\N,36,19,1:51.777,163.128,11,2016,Singapore Grand Prix,15,Jolyon Palmer,Renault,Singapore
+23240,962,836,209,19,16,16,0.0,60,\N,\N,40,20,1:52.021,162.773,11,2016,Singapore Grand Prix,15,Pascal Wehrlein,Manor Marussia,Singapore
+23241,962,828,15,14,17,17,0.0,60,\N,\N,27,10,1:50.963,164.325,11,2016,Singapore Grand Prix,15,Marcus Ericsson,Sauber,Singapore
+23242,962,839,209,21,18,18,0.0,59,\N,\N,47,18,1:51.748,163.170,12,2016,Singapore Grand Prix,15,Esteban Ocon,Manor Marussia,Singapore
+23243,962,18,1,12,\N,19,0.0,43,\N,\N,18,16,1:51.631,163.341,23,2016,Singapore Grand Prix,15,Jenson Button,McLaren,Singapore
+23244,962,822,3,10,\N,20,0.0,35,\N,\N,17,13,1:51.368,163.727,25,2016,Singapore Grand Prix,15,Valtteri Bottas,Williams,Singapore
+23245,962,807,10,8,\N,21,0.0,0,\N,\N,\N,0,\N,\N,4,2016,Singapore Grand Prix,15,Nico Hülkenberg,Force India,Singapore
+23246,962,154,210,20,\N,22,0.0,0,\N,\N,\N,0,\N,\N,54,2016,Singapore Grand Prix,15,Romain Grosjean,Haas F1 Team,Singapore
+23642,982,1,131,5,1,1,25.0,58,2:03:23.544,7403544,55,1,1:45.008,173.643,1,2017,Singapore Grand Prix,15,Lewis Hamilton,Mercedes,Singapore
+23643,982,817,9,3,2,2,18.0,58,+4.507,7408051,57,2,1:45.301,173.160,1,2017,Singapore Grand Prix,15,Daniel Ricciardo,Red Bull,Singapore
+23644,982,822,131,6,3,3,15.0,58,+8.800,7412344,54,3,1:45.405,172.989,1,2017,Singapore Grand Prix,15,Valtteri Bottas,Mercedes,Singapore
+23645,982,832,5,10,4,4,12.0,58,+22.822,7426366,52,4,1:46.537,171.151,1,2017,Singapore Grand Prix,15,Carlos Sainz,Toro Rosso,Singapore
+23646,982,815,10,12,5,5,10.0,58,+25.359,7428903,52,7,1:46.731,170.840,1,2017,Singapore Grand Prix,15,Sergio Pérez,Force India,Singapore
+23647,982,835,4,11,6,6,8.0,58,+27.259,7430803,52,5,1:46.722,170.855,1,2017,Singapore Grand Prix,15,Jolyon Palmer,Renault,Singapore
+23648,982,838,1,9,7,7,6.0,58,+30.388,7433932,57,6,1:46.722,170.855,1,2017,Singapore Grand Prix,15,Stoffel Vandoorne,McLaren,Singapore
+23649,982,840,3,18,8,8,4.0,58,+41.696,7445240,55,9,1:47.512,169.599,1,2017,Singapore Grand Prix,15,Lance Stroll,Williams,Singapore
+23650,982,154,210,15,9,9,2.0,58,+43.282,7446826,54,11,1:47.637,169.402,1,2017,Singapore Grand Prix,15,Romain Grosjean,Haas F1 Team,Singapore
+23651,982,839,10,14,10,10,1.0,58,+44.795,7448339,52,12,1:47.677,169.339,1,2017,Singapore Grand Prix,15,Esteban Ocon,Force India,Singapore
+23652,982,13,3,17,11,11,0.0,58,+46.536,7450080,58,8,1:47.055,170.323,1,2017,Singapore Grand Prix,15,Felipe Massa,Williams,Singapore
+23653,982,836,15,19,12,12,0.0,56,\N,\N,56,14,1:49.061,167.190,12,2017,Singapore Grand Prix,15,Pascal Wehrlein,Sauber,Singapore
+23654,982,825,210,16,\N,13,0.0,50,\N,\N,44,10,1:47.585,169.484,5,2017,Singapore Grand Prix,15,Kevin Magnussen,Haas F1 Team,Singapore
+23655,982,807,4,7,\N,14,0.0,48,\N,\N,37,13,1:48.011,168.816,5,2017,Singapore Grand Prix,15,Nico Hülkenberg,Renault,Singapore
+23656,982,828,15,20,\N,15,0.0,35,\N,\N,35,15,1:52.496,162.085,3,2017,Singapore Grand Prix,15,Marcus Ericsson,Sauber,Singapore
+23657,982,826,5,13,\N,16,0.0,10,\N,\N,10,16,2:10.512,139.711,3,2017,Singapore Grand Prix,15,Daniil Kvyat,Toro Rosso,Singapore
+23658,982,4,1,8,\N,17,0.0,8,\N,\N,6,17,2:13.579,136.503,130,2017,Singapore Grand Prix,15,Fernando Alonso,McLaren,Singapore
+23659,982,20,6,1,\N,18,0.0,0,\N,\N,\N,0,\N,\N,3,2017,Singapore Grand Prix,15,Sebastian Vettel,Ferrari,Singapore
+23660,982,830,9,2,\N,19,0.0,0,\N,\N,\N,0,\N,\N,3,2017,Singapore Grand Prix,15,Max Verstappen,Red Bull,Singapore
+23661,982,8,6,4,\N,20,0.0,0,\N,\N,\N,0,\N,\N,3,2017,Singapore Grand Prix,15,Kimi Räikkönen,Ferrari,Singapore
+24063,1003,1,131,1,1,1,25.0,61,1:51:11.611,6671611,56,2,1:42.913,177.108,1,2018,Singapore Grand Prix,15,Lewis Hamilton,Mercedes,Singapore
+24064,1003,830,9,2,2,2,18.0,61,+8.961,6680572,54,5,1:43.345,176.368,1,2018,Singapore Grand Prix,15,Max Verstappen,Red Bull,Singapore
+24065,1003,20,6,3,3,3,15.0,61,+39.984,6711595,48,6,1:44.669,174.137,1,2018,Singapore Grand Prix,15,Sebastian Vettel,Ferrari,Singapore
+24066,1003,822,131,4,4,4,12.0,61,+51.930,6723541,42,8,1:44.720,174.052,1,2018,Singapore Grand Prix,15,Valtteri Bottas,Mercedes,Singapore
+24067,1003,8,6,5,5,5,10.0,61,+53.001,6724612,46,7,1:44.715,174.061,1,2018,Singapore Grand Prix,15,Kimi Räikkönen,Ferrari,Singapore
+24068,1003,817,9,6,6,6,8.0,61,+53.982,6725593,59,3,1:43.120,176.753,1,2018,Singapore Grand Prix,15,Daniel Ricciardo,Red Bull,Singapore
+24069,1003,4,1,11,7,7,6.0,61,+1:43.001,6774612,57,4,1:43.164,176.677,1,2018,Singapore Grand Prix,15,Fernando Alonso,McLaren,Singapore
+24070,1003,832,4,12,8,8,4.0,60,\N,\N,50,12,1:45.211,173.240,11,2018,Singapore Grand Prix,15,Carlos Sainz,Renault,Singapore
+24071,1003,844,15,13,9,9,2.0,60,\N,\N,57,11,1:45.203,173.253,11,2018,Singapore Grand Prix,15,Charles Leclerc,Sauber,Singapore
+24072,1003,807,4,10,10,10,1.0,60,\N,\N,53,19,1:46.093,171.800,11,2018,Singapore Grand Prix,15,Nico Hülkenberg,Renault,Singapore
+24073,1003,828,15,14,11,11,0.0,60,\N,\N,50,10,1:45.169,173.309,11,2018,Singapore Grand Prix,15,Marcus Ericsson,Sauber,Singapore
+24074,1003,838,1,18,12,12,0.0,60,\N,\N,50,14,1:45.555,172.675,11,2018,Singapore Grand Prix,15,Stoffel Vandoorne,McLaren,Singapore
+24075,1003,842,5,15,13,13,0.0,60,\N,\N,56,18,1:46.063,171.848,11,2018,Singapore Grand Prix,15,Pierre Gasly,Toro Rosso,Singapore
+24076,1003,840,3,20,14,14,0.0,60,\N,\N,53,17,1:46.033,171.897,11,2018,Singapore Grand Prix,15,Lance Stroll,Williams,Singapore
+24077,1003,154,210,8,15,15,0.0,60,\N,\N,57,16,1:45.904,172.106,11,2018,Singapore Grand Prix,15,Romain Grosjean,Haas F1 Team,Singapore
+24078,1003,815,10,7,16,16,0.0,60,\N,\N,48,13,1:45.389,172.947,11,2018,Singapore Grand Prix,15,Sergio Pérez,Force India,Singapore
+24079,1003,843,5,17,17,17,0.0,60,\N,\N,38,9,1:44.889,173.772,11,2018,Singapore Grand Prix,15,Brendon Hartley,Toro Rosso,Singapore
+24080,1003,825,210,16,18,18,0.0,59,\N,\N,50,1,1:41.905,178.860,12,2018,Singapore Grand Prix,15,Kevin Magnussen,Haas F1 Team,Singapore
+24081,1003,845,3,19,19,19,0.0,59,\N,\N,48,15,1:45.902,172.110,12,2018,Singapore Grand Prix,15,Sergey Sirotkin,Williams,Singapore
+24082,1003,839,10,9,\N,20,0.0,0,\N,\N,\N,0,\N,\N,4,2018,Singapore Grand Prix,15,Esteban Ocon,Force India,Singapore
+24486,1024,20,6,3,1,1,25.0,61,1:58:33.667,7113667,57,5,1:44.802,173.916,1,2019,Singapore Grand Prix,15,Sebastian Vettel,Ferrari,Singapore
+24487,1024,844,6,1,2,2,18.0,61,+2.641,7116308,59,4,1:44.723,174.047,1,2019,Singapore Grand Prix,15,Charles Leclerc,Ferrari,Singapore
+24488,1024,830,9,4,3,3,15.0,61,+3.821,7117488,56,8,1:45.176,173.298,1,2019,Singapore Grand Prix,15,Max Verstappen,Red Bull,Singapore
+24489,1024,1,131,2,4,4,12.0,61,+4.608,7118275,58,7,1:44.914,173.730,1,2019,Singapore Grand Prix,15,Lewis Hamilton,Mercedes,Singapore
+24490,1024,822,131,5,5,5,10.0,61,+6.119,7119786,58,2,1:43.534,176.046,1,2019,Singapore Grand Prix,15,Valtteri Bottas,Mercedes,Singapore
+24491,1024,848,9,6,6,6,8.0,61,+11.663,7125330,59,9,1:45.260,173.159,1,2019,Singapore Grand Prix,15,Alexander Albon,Red Bull,Singapore
+24492,1024,846,1,9,7,7,6.0,61,+14.769,7128436,58,11,1:45.716,172.412,1,2019,Singapore Grand Prix,15,Lando Norris,McLaren,Singapore
+24493,1024,842,5,11,8,8,4.0,61,+15.547,7129214,58,13,1:45.769,172.326,1,2019,Singapore Grand Prix,15,Pierre Gasly,Toro Rosso,Singapore
+24494,1024,807,4,8,9,9,2.0,61,+16.718,7130385,59,12,1:45.765,172.333,1,2019,Singapore Grand Prix,15,Nico Hülkenberg,Renault,Singapore
+24495,1024,841,51,10,10,10,1.0,61,+27.855,7141522,59,10,1:45.630,172.553,1,2019,Singapore Grand Prix,15,Antonio Giovinazzi,Alfa Romeo,Singapore
+24496,1024,154,210,17,11,11,0.0,61,+35.436,7149103,54,16,1:46.274,171.507,1,2019,Singapore Grand Prix,15,Romain Grosjean,Haas F1 Team,Singapore
+24497,1024,832,1,7,12,12,0.0,61,+35.974,7149641,41,15,1:45.969,172.001,1,2019,Singapore Grand Prix,15,Carlos Sainz,McLaren,Singapore
+24498,1024,840,211,16,13,13,0.0,61,+36.419,7150086,57,6,1:44.896,173.760,1,2019,Singapore Grand Prix,15,Lance Stroll,Racing Point,Singapore
+24499,1024,817,4,20,14,14,0.0,61,+37.660,7151327,55,14,1:45.915,172.088,1,2019,Singapore Grand Prix,15,Daniel Ricciardo,Renault,Singapore
+24500,1024,826,5,14,15,15,0.0,61,+38.178,7151845,57,3,1:44.371,174.634,1,2019,Singapore Grand Prix,15,Daniil Kvyat,Toro Rosso,Singapore
+24501,1024,9,3,19,16,16,0.0,61,+47.024,7160691,59,18,1:46.793,170.674,1,2019,Singapore Grand Prix,15,Robert Kubica,Williams,Singapore
+24502,1024,825,210,13,17,17,0.0,61,+1:26.522,7200189,58,1,1:42.301,178.168,1,2019,Singapore Grand Prix,15,Kevin Magnussen,Haas F1 Team,Singapore
+24503,1024,8,51,12,\N,18,0.0,49,\N,\N,18,19,1:47.062,170.245,4,2019,Singapore Grand Prix,15,Kimi Räikkönen,Alfa Romeo,Singapore
+24504,1024,815,211,15,\N,19,0.0,42,\N,\N,15,17,1:46.683,170.850,5,2019,Singapore Grand Prix,15,Sergio Pérez,Racing Point,Singapore
+24505,1024,847,3,18,\N,20,0.0,34,\N,\N,29,20,1:48.285,168.322,4,2019,Singapore Grand Prix,15,George Russell,Williams,Singapore
+25726,1091,815,9,2,1,1,25.0,59,2:02:20.238,7340238,57,2,1:48.165,168.509,1,2022,Singapore Grand Prix,15,Sergio Pérez,Red Bull,Singapore
+25727,1091,844,6,1,2,2,18.0,59,+2.595,7342833,54,4,1:48.753,167.598,1,2022,Singapore Grand Prix,15,Charles Leclerc,Ferrari,Singapore
+25728,1091,832,6,4,3,3,15.0,59,+10.305,7350543,59,3,1:48.414,168.122,1,2022,Singapore Grand Prix,15,Carlos Sainz,Ferrari,Singapore
+25729,1091,846,1,6,4,4,12.0,59,+21.133,7361371,56,6,1:49.212,166.893,1,2022,Singapore Grand Prix,15,Lando Norris,McLaren,Singapore
+25730,1091,817,1,16,5,5,10.0,59,+53.282,7393520,57,12,1:51.006,164.196,1,2022,Singapore Grand Prix,15,Daniel Ricciardo,McLaren,Singapore
+25731,1091,840,117,11,6,6,8.0,59,+56.330,7396568,58,7,1:50.283,165.272,1,2022,Singapore Grand Prix,15,Lance Stroll,Aston Martin,Singapore
+25732,1091,830,9,8,7,7,6.0,59,+58.825,7399063,52,5,1:49.142,167.000,1,2022,Singapore Grand Prix,15,Max Verstappen,Red Bull,Singapore
+25733,1091,20,117,13,8,8,4.0,59,+1:00.032,7400270,58,11,1:50.669,164.696,1,2022,Singapore Grand Prix,15,Sebastian Vettel,Aston Martin,Singapore
+25734,1091,1,131,3,9,9,2.0,59,+1:01.515,7401753,58,10,1:50.622,164.766,1,2022,Singapore Grand Prix,15,Lewis Hamilton,Mercedes,Singapore
+25735,1091,842,213,7,10,10,1.0,59,+1:09.576,7409814,56,9,1:50.569,164.845,1,2022,Singapore Grand Prix,15,Pierre Gasly,AlphaTauri,Singapore
+25736,1091,822,51,15,11,11,0.0,59,+1:28.844,7429082,52,13,1:51.864,162.937,1,2022,Singapore Grand Prix,15,Valtteri Bottas,Alfa Romeo,Singapore
+25737,1091,825,210,9,12,12,0.0,59,+1:32.610,7432848,59,14,1:52.067,162.641,1,2022,Singapore Grand Prix,15,Kevin Magnussen,Haas F1 Team,Singapore
+25738,1091,854,210,12,13,13,0.0,58,\N,\N,58,8,1:50.290,165.262,11,2022,Singapore Grand Prix,15,Mick Schumacher,Haas F1 Team,Singapore
+25739,1091,847,131,0,14,14,0.0,57,\N,\N,54,1,1:46.458,171.211,12,2022,Singapore Grand Prix,15,George Russell,Mercedes,Singapore
+25740,1091,852,213,10,\N,15,0.0,34,\N,\N,32,15,1:58.716,153.532,3,2022,Singapore Grand Prix,15,Yuki Tsunoda,AlphaTauri,Singapore
+25741,1091,839,214,17,\N,16,0.0,26,\N,\N,24,17,2:01.105,150.504,5,2022,Singapore Grand Prix,15,Esteban Ocon,Alpine F1 Team,Singapore
+25742,1091,848,3,18,\N,17,0.0,25,\N,\N,24,18,2:02.121,149.251,130,2022,Singapore Grand Prix,15,Alexander Albon,Williams,Singapore
+25743,1091,4,214,5,\N,18,0.0,20,\N,\N,19,16,2:00.463,151.306,5,2022,Singapore Grand Prix,15,Fernando Alonso,Alpine F1 Team,Singapore
+25744,1091,849,3,19,\N,19,0.0,7,\N,\N,5,20,2:05.585,145.135,130,2022,Singapore Grand Prix,15,Nicholas Latifi,Williams,Singapore
+25745,1091,855,51,14,\N,20,0.0,6,\N,\N,5,19,2:05.556,145.168,4,2022,Singapore Grand Prix,15,Guanyu Zhou,Alfa Romeo,Singapore
+26126,1113,832,6,1,1,1,25.0,62,1:46:37.418,6397418,47,7,1:37.666,182.089,1,2023,Singapore Grand Prix,15,Carlos Sainz,Ferrari,Singapore
+26127,1113,846,1,4,2,2,18.0,62,+0.812,6398230,46,8,1:38.046,181.384,1,2023,Singapore Grand Prix,15,Lando Norris,McLaren,Singapore
+26128,1113,1,131,5,3,3,16.0,62,+1.269,6398687,47,1,1:35.867,185.507,1,2023,Singapore Grand Prix,15,Lewis Hamilton,Mercedes,Singapore
+26129,1113,844,6,3,4,4,12.0,62,+21.177,6418595,46,11,1:38.275,180.961,1,2023,Singapore Grand Prix,15,Charles Leclerc,Ferrari,Singapore
+26130,1113,830,9,11,5,5,10.0,62,+21.441,6418859,61,4,1:36.575,184.147,1,2023,Singapore Grand Prix,15,Max Verstappen,Red Bull,Singapore
+26131,1113,842,214,12,6,6,8.0,62,+38.441,6435859,46,12,1:38.277,180.957,1,2023,Singapore Grand Prix,15,Pierre Gasly,Alpine F1 Team,Singapore
+26132,1113,857,1,17,7,7,6.0,62,+41.479,6438897,46,13,1:38.492,180.562,1,2023,Singapore Grand Prix,15,Oscar Piastri,McLaren,Singapore
+26133,1113,815,9,13,8,8,4.0,62,+59.534,6456952,61,5,1:37.108,183.136,1,2023,Singapore Grand Prix,15,Sergio Pérez,Red Bull,Singapore
+26134,1113,859,213,10,9,9,2.0,62,+1:05.918,6463336,47,15,1:39.028,179.585,1,2023,Singapore Grand Prix,15,Liam Lawson,AlphaTauri,Singapore
+26135,1113,825,210,6,10,10,1.0,62,+1:12.116,6469534,48,10,1:38.107,181.271,1,2023,Singapore Grand Prix,15,Kevin Magnussen,Haas F1 Team,Singapore
+26136,1113,848,3,14,11,11,0.0,62,+1:13.417,6470835,46,6,1:37.342,182.696,1,2023,Singapore Grand Prix,15,Alexander Albon,Williams,Singapore
+26137,1113,855,51,0,12,12,0.0,62,+1:23.649,6481067,46,16,1:39.316,179.064,1,2023,Singapore Grand Prix,15,Guanyu Zhou,Alfa Romeo,Singapore
+26138,1113,807,210,9,13,13,0.0,62,+1:26.201,6483619,50,17,1:39.923,177.977,1,2023,Singapore Grand Prix,15,Nico Hülkenberg,Haas F1 Team,Singapore
+26139,1113,858,3,18,14,14,0.0,62,+1:26.889,6484307,45,14,1:38.531,180.491,1,2023,Singapore Grand Prix,15,Logan Sargeant,Williams,Singapore
+26140,1113,4,117,7,15,15,0.0,62,+1:27.603,6485021,47,3,1:36.456,184.374,1,2023,Singapore Grand Prix,15,Fernando Alonso,Aston Martin,Singapore
+26141,1113,847,131,2,16,16,0.0,61,\N,\N,46,2,1:36.273,184.724,3,2023,Singapore Grand Prix,15,George Russell,Mercedes,Singapore
+26142,1113,822,51,16,\N,17,0.0,51,\N,\N,51,9,1:38.075,181.330,39,2023,Singapore Grand Prix,15,Valtteri Bottas,Alfa Romeo,Singapore
+26143,1113,839,214,8,\N,18,0.0,42,\N,\N,33,18,1:39.930,177.964,6,2023,Singapore Grand Prix,15,Esteban Ocon,Alpine F1 Team,Singapore
+26144,1113,852,213,15,\N,19,0.0,0,\N,\N,\N,0,\N,\N,4,2023,Singapore Grand Prix,15,Yuki Tsunoda,AlphaTauri,Singapore
+26145,1113,840,117,0,\N,20,0.0,0,\N,\N,\N,0,\N,\N,54,2023,Singapore Grand Prix,15,Lance Stroll,Aston Martin,Singapore
+26625,1138,846,1,1,1,1,25.0,62,1:40:52.571,6052571,48,2,1:34.925,187.347,1,2024,Singapore Grand Prix,15,Lando Norris,McLaren,Singapore
+26626,1138,830,9,2,2,2,18.0,62,+20.945,6073516,59,5,1:35.967,185.313,1,2024,Singapore Grand Prix,15,Max Verstappen,Red Bull,Singapore
+26627,1138,857,1,5,3,3,15.0,62,+41.823,6094394,48,4,1:35.745,185.743,1,2024,Singapore Grand Prix,15,Oscar Piastri,McLaren,Singapore
+26628,1138,847,131,4,4,4,12.0,62,+1:01.040,6113611,30,10,1:37.047,183.251,1,2024,Singapore Grand Prix,15,George Russell,Mercedes,Singapore
+26629,1138,844,6,9,5,5,10.0,62,+1:02.430,6115001,46,3,1:35.371,186.471,1,2024,Singapore Grand Prix,15,Charles Leclerc,Ferrari,Singapore
+26630,1138,1,131,3,6,6,8.0,62,+1:25.248,6137819,43,12,1:37.393,182.600,1,2024,Singapore Grand Prix,15,Lewis Hamilton,Mercedes,Singapore
+26631,1138,832,6,10,7,7,6.0,62,+1:36.039,6148610,15,7,1:36.561,184.173,1,2024,Singapore Grand Prix,15,Carlos Sainz,Ferrari,Singapore
+26632,1138,4,117,7,8,8,4.0,61,\N,\N,54,18,1:37.741,181.950,11,2024,Singapore Grand Prix,15,Fernando Alonso,Aston Martin,Singapore
+26633,1138,807,210,6,9,9,2.0,61,\N,\N,35,15,1:37.470,182.456,11,2024,Singapore Grand Prix,15,Nico Hülkenberg,Haas F1 Team,Singapore
+26634,1138,815,9,13,10,10,1.0,61,\N,\N,33,16,1:37.477,182.443,11,2024,Singapore Grand Prix,15,Sergio Pérez,Red Bull,Singapore
+26635,1138,861,3,12,11,11,0.0,61,\N,\N,35,11,1:37.262,182.846,11,2024,Singapore Grand Prix,15,Franco Colapinto,Williams,Singapore
+26636,1138,852,215,8,12,12,0.0,61,\N,\N,53,6,1:36.393,184.494,11,2024,Singapore Grand Prix,15,Yuki Tsunoda,RB F1 Team,Singapore
+26637,1138,839,214,15,13,13,0.0,61,\N,\N,48,20,1:37.964,181.536,11,2024,Singapore Grand Prix,15,Esteban Ocon,Alpine F1 Team,Singapore
+26638,1138,840,117,17,14,14,0.0,61,\N,\N,36,19,1:37.851,181.745,11,2024,Singapore Grand Prix,15,Lance Stroll,Aston Martin,Singapore
+26639,1138,855,15,20,15,15,0.0,61,\N,\N,47,14,1:37.461,182.472,11,2024,Singapore Grand Prix,15,Guanyu Zhou,Sauber,Singapore
+26640,1138,822,15,19,16,16,0.0,61,\N,\N,46,17,1:37.524,182.355,11,2024,Singapore Grand Prix,15,Valtteri Bottas,Sauber,Singapore
+26641,1138,842,214,18,17,17,0.0,61,\N,\N,46,9,1:36.927,183.478,11,2024,Singapore Grand Prix,15,Pierre Gasly,Alpine F1 Team,Singapore
+26642,1138,817,215,16,18,18,0.0,61,\N,\N,60,1,1:34.486,188.218,11,2024,Singapore Grand Prix,15,Daniel Ricciardo,RB F1 Team,Singapore
+26643,1138,825,210,14,19,19,0.0,57,\N,\N,52,13,1:37.425,182.540,3,2024,Singapore Grand Prix,15,Kevin Magnussen,Haas F1 Team,Singapore
+26644,1138,848,3,11,\N,20,0.0,15,\N,\N,13,8,1:36.888,183.552,131,2024,Singapore Grand Prix,15,Alexander Albon,Williams,Singapore
