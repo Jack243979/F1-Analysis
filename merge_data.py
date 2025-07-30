@@ -2,7 +2,7 @@ import pandas as pd
 
 # ── 1. Paths ───────────────────────────────────────────────────────
 DATA_DIR = "Datasets"      # where your raw CSVs live
-OUT_DIR  = "clean_data"          # where you want to save merged_singapore.csv
+OUT_DIR  = "data"  # where you want to save merged_singapore.csv
 
 # ── 2. Load raw tables ────────────────────────────────────────────
 races        = pd.read_csv(f"{DATA_DIR}/races.csv")
