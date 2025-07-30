@@ -1,7 +1,7 @@
 import pandas as pd
 
 # 1. Folder where you’ve put the Kaggle CSVs
-DATA_DIR = "data"
+DATA_DIR = "Datasets"
 
 # 2. Load the key files
 races        = pd.read_csv(f"{DATA_DIR}/races.csv")
