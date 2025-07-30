@@ -1,0 +1,71 @@
+driver_name,team_name,lr_prob,rf_prob
+Fernando Alonso,Ferrari,0.17289706487524842,0.65
+Nico Rosberg,Mercedes,0.8650201813672338,0.59
+Lewis Hamilton,Mercedes,0.9994536242788163,0.87
+Timo Glock,Toyota,0.025336740760239444,0.11
+Sebastian Vettel,Red Bull,0.9999630632351183,0.88
+Nick Heidfeld,BMW Sauber,0.0052245183962803185,0.07
+David Coulthard,Red Bull,0.0028551924425773145,0.03
+Kazuki Nakajima,Williams,0.0020070127737749415,0.0
+Jenson Button,McLaren,0.5147853210840387,0.31
+Heikki Kovalainen,McLaren,8.796720259218743e-05,0.0
+Robert Kubica,BMW Sauber,0.002010312788781037,0.0
+Sébastien Bourdais,Toro Rosso,0.00014465668222057084,0.0
+Felipe Massa,Ferrari,0.027994226408843168,0.01
+Giancarlo Fisichella,Force India,0.00010079654619124084,0.0
+Kimi Räikkönen,Ferrari,0.6568706932971166,0.1
+Rubens Barrichello,Williams,0.0037859466020736497,0.0
+Jarno Trulli,Toyota,4.2445947424317335e-05,0.0
+Vitantonio Liuzzi,Force India,2.76219012505448e-06,0.0
+Mark Webber,Red Bull,0.003179395642843718,0.0
+Adrian Sutil,Force India,0.001160447656700706,0.0
+Nico Hülkenberg,Force India,0.011457612977641498,0.02
+Vitaly Petrov,Renault,1.2855363059603424e-05,0.0
+Jaime Alguersuari,Toro Rosso,3.870880960423521e-06,0.0
+Michael Schumacher,Mercedes,2.1385648129371142e-05,0.02
+Sébastien Buemi,Toro Rosso,4.1085706230116404e-05,0.0
+Lucas di Grassi,Virgin,5.604177190097719e-06,0.0
+Paul di Resta,Force India,0.0005912341630911636,0.0
+Sergio Pérez,Force India,0.6674612291347228,0.67
+Pastor Maldonado,Williams,0.00038238001358247204,0.0
+Kamui Kobayashi,Sauber,3.119649403426315e-05,0.0
+Bruno Senna,Renault,3.573052207125289e-06,0.0
+Jérôme d'Ambrosio,Virgin,7.004043129707529e-07,0.0
+Daniel Ricciardo,Red Bull,0.029379538190873036,0.18
+Romain Grosjean,Lotus F1,0.0012016834812569556,0.0
+Charles Pic,Marussia,1.7430225759218278e-06,0.0
+Pedro de la Rosa,HRT,1.4406297614064283e-06,0.0
+Esteban Gutiérrez,Sauber,0.00013196835568752012,0.0
+Valtteri Bottas,Williams,0.01465455180355638,0.01
+Jean-Éric Vergne,Toro Rosso,0.0003891919993247075,0.0
+Giedo van der Garde,Caterham,2.9631634862852326e-06,0.0
+Max Chilton,Marussia,2.499796350200008e-06,0.0
+Jules Bianchi,Marussia,2.499796350200008e-06,0.0
+Kevin Magnussen,Haas F1 Team,0.00017085966834851866,0.0
+Daniil Kvyat,Toro Rosso,0.0004332824626755227,0.0
+Marcus Ericsson,Sauber,3.49814533259494e-05,0.0
+Max Verstappen,Red Bull,0.45862853652555285,0.13
+Carlos Sainz,Toro Rosso,0.5793225068151554,0.65
+Felipe Nasr,Sauber,5.3411259968839344e-05,0.0
+Alexander Rossi,Manor Marussia,2.667223666279916e-06,0.0
+Will Stevens,Manor Marussia,1.041426324365324e-06,0.0
+Jolyon Palmer,Renault,0.00013642240429880575,0.0
+Pascal Wehrlein,Manor Marussia,5.088324886660584e-06,0.0
+Esteban Ocon,Manor Marussia,1.3281024778873024e-05,0.0
+Stoffel Vandoorne,McLaren,0.0003492012714699736,0.0
+Lance Stroll,Williams,0.0005931485637418172,0.0
+Charles Leclerc,Ferrari,0.2820145779979166,0.12
+Pierre Gasly,Toro Rosso,0.0005569660482294327,0.0
+Brendon Hartley,Toro Rosso,2.9146063679744994e-07,0.0
+Sergey Sirotkin,Williams,9.580711792587632e-08,0.0
+Alexander Albon,Red Bull,9.355772234127909e-05,0.0
+Lando Norris,McLaren,0.07808282399606623,0.62
+Antonio Giovinazzi,Alfa Romeo,1.4312370988298193e-05,0.0
+Mick Schumacher,Haas F1 Team,2.697387257582772e-06,0.0
+George Russell,Mercedes,5.5150776819676915e-05,0.0
+Oscar Piastri,McLaren,0.0008221000931166791,0.04
+Liam Lawson,AlphaTauri,2.4963074255737282e-05,0.0
+Guanyu Zhou,Alfa Romeo,5.830189605835078e-06,0.0
+Logan Sargeant,Williams,1.5465098560196998e-06,0.0
+Franco Colapinto,Williams,8.205841569628523e-06,0.0
+Yuki Tsunoda,RB F1 Team,4.704717372186609e-06,0.0
